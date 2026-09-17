@@ -1,0 +1,2 @@
+Este e um arquivo de exemplo para testes do harness.
+Ele demonstra como o agente le arquivos dentro do sandbox.
