@@ -1,6 +1,6 @@
 package context
 
-import "github.com/seu-usuario/go-agent-harness/internal/llm"
+import "github.com/waldirborbajr/goharness/internal/llm"
 
 // Manager controla o historico enviado ao LLM.
 // Ponto de extensao natural para compactacao de contexto.

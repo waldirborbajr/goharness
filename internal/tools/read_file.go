@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/seu-usuario/go-agent-harness/internal/sandbox"
+	"github.com/waldirborbajr/goharness/internal/sandbox"
 )
 
 type ReadFileTool struct {

@@ -3,7 +3,7 @@ package tools
 import (
 	"context"
 
-	"github.com/seu-usuario/go-agent-harness/internal/llm"
+	"github.com/waldirborbajr/goharness/internal/llm"
 )
 
 // Tool e o contrato de qualquer ferramenta do agente.

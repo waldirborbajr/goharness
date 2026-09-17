@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	ctxmgr "github.com/seu-usuario/go-agent-harness/internal/context"
-	"github.com/seu-usuario/go-agent-harness/internal/llm"
-	"github.com/seu-usuario/go-agent-harness/internal/tools"
+	ctxmgr "github.com/waldirborbajr/goharness/internal/context"
+	"github.com/waldirborbajr/goharness/internal/llm"
+	"github.com/waldirborbajr/goharness/internal/tools"
 )
 
 // Agent e o loop que orquestra LLM <-> ferramentas.

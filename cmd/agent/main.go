@@ -6,11 +6,11 @@ import (
 	"log"
 	"os"
 
-	"github.com/seu-usuario/go-agent-harness/internal/agent"
-	ctxmgr "github.com/seu-usuario/go-agent-harness/internal/context"
-	"github.com/seu-usuario/go-agent-harness/internal/llm"
-	"github.com/seu-usuario/go-agent-harness/internal/sandbox"
-	"github.com/seu-usuario/go-agent-harness/internal/tools"
+	"github.com/waldirborbajr/goharness/internal/agent"
+	ctxmgr "github.com/waldirborbajr/goharness/internal/context"
+	"github.com/waldirborbajr/goharness/internal/llm"
+	"github.com/waldirborbajr/goharness/internal/sandbox"
+	"github.com/waldirborbajr/goharness/internal/tools"
 )
 
 const workspace = "/tmp/agent-workspace"
